@@ -68,7 +68,7 @@ export default function About() {
         <div className="about-hero mt-8">
           <div className="overflow-hidden rounded-2xl border border-accent/40 shadow-lg">
             <img
-              src="https://images.unsplash.com/photo-1511671782779-c97d3d27a5d4?auto=format&fit=crop&w=1600&q=80"
+              src="https://www.shutterstock.com/image-photo/concert-wallpaper-background-silhouette-rap-600nw-526914889.jpg"
               alt="Artist community"
               className="w-full h-[320px] md:h-[420px] object-cover transition-transform duration-500 hover:scale-[1.02]"
             />
